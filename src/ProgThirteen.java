@@ -26,7 +26,7 @@ public class ProgThirteen {
 
         //calculating average for 3 values
         d = ((a+b+c)/3);
-        System.out.println("Average of Three Value is :"+ d);23
+        System.out.println("Average of Three Value is :"+ d);
 
     }
 }
